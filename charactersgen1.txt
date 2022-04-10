@@ -1,0 +1,150 @@
+ID: 84967
+Strength: 14
+Name: benzoylated
+
+
+ID: 85280
+Strength: 20
+Name: longipennine
+
+
+ID: 82098
+Strength: 20
+Name: codicillary
+
+
+ID: 58171
+Strength: 18
+Name: adelphoi
+
+
+ID: 18284
+Strength: 13
+Name: corium
+
+
+ID: 56242
+Strength: 20
+Name: gleys
+
+
+ID: 90587
+Strength: 14
+Name: sinew
+
+
+ID: 1901
+Strength: 13
+Name: babbling
+
+
+ID: 37807
+Strength: 13
+Name: cabinlike
+
+
+ID: 16971
+Strength: 19
+Name: unquarreled
+
+
+ID: 29052
+Strength: 11
+Name: skep
+
+
+ID: 9476
+Strength: 18
+Name: marsupialise
+
+
+ID: 13561
+Strength: 16
+Name: soricoidea
+
+
+ID: 37465
+Strength: 12
+Name: hydrometallurgical
+
+
+ID: 26151
+Strength: 14
+Name: otohemineurasthenia
+
+
+ID: 92472
+Strength: 14
+Name: intracloacal
+
+
+ID: 43251
+Strength: 14
+Name: overimaginatively
+
+
+ID: 59983
+Strength: 18
+Name: exomion
+
+
+ID: 15937
+Strength: 19
+Name: hemosiderosis
+
+
+ID: 9696
+Strength: 13
+Name: autoelectronic
+
+
+ID: 78377
+Strength: 18
+Name: putoff
+
+
+ID: 97359
+Strength: 18
+Name: compilator
+
+
+ID: 86099
+Strength: 12
+Name: cibbaria
+
+
+ID: 65440
+Strength: 19
+Name: disced
+
+
+ID: 7544
+Strength: 13
+Name: nondisarmament
+
+
+ID: 10833
+Strength: 10
+Name: jaywalked
+
+
+ID: 52251
+Strength: 17
+Name: diastaltic
+
+
+ID: 80161
+Strength: 17
+Name: meandrously
+
+
+ID: 9266
+Strength: 19
+Name: lacrimatory
+
+
+ID: 93070
+Strength: 16
+Name: peafowls
+
+
